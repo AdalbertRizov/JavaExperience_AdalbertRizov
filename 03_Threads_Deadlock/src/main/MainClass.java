@@ -4,7 +4,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 
-public class MainClass {
+public class MainClass { 
 
 
 	public static void main(String[] args) {
